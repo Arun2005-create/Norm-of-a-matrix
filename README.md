@@ -58,13 +58,15 @@ print('{:.2f}'.format(norm))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![output](/norm1.png)
+![norm1](https://github.com/Arun2005-create/Norm-of-a-matrix/assets/138849356/680362f8-8341-4b39-922d-f03b6ae090e3)
+
 
 ### 2-Norm of a Matrix
-![output](/norm2.png)
+![norm2](https://github.com/Arun2005-create/Norm-of-a-matrix/assets/138849356/3ad23153-3a80-47f0-9bfd-573e21eda643)
+
 
 ### Infinity Norm of a Matrix
-![output](/norm3.png)
+![norm3](https://github.com/Arun2005-create/Norm-of-a-matrix/assets/138849356/2d9ef02e-8a38-46ef-9238-c6740c9fea1a)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
